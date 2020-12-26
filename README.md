@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Fikri
 #### I am Front & Backend Developer
-![I am Front & Backend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Front & Backend Developer](https://i.ibb.co/mJvsH8P/Screenshot-2.png)
 
 Saya suka ngoding, tapi ngoding nya berantakan & lawak banget
 
