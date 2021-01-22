@@ -6,12 +6,12 @@ Saya suka ngoding, tapi ngoding nya berantakan & lawak banget
 
 Skills: C++ / PHP / JS / HTML / CSS / PAWN
 
-- 🔭 I’m currently working on https://tnl.runhosting.net 
+- 🔭 I’m currently working on [TNL Hostinger](https://tnl.runhosting.net) & [Videfikri API's](https://videfikri.com/api/)
 - 🌱 I’m currently learning Go-lang, JavaScript 
 - 👯 I’m looking to collaborate on FrelanBot WHATSAPP 
 - 🤔 I’m looking for help with FrelanBot WHATSAPP 
 - 💬 Ask me about Anything 
-- 📫 How to reach me: powermiyako@gmail.com 
+- 📫 How to reach me: videfikri@videfikri.com
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: Suka ngoding, tapi berantakan lawak banget 
 
