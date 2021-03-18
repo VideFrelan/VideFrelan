@@ -6,10 +6,10 @@ Saya suka ngoding, tapi ngoding nya berantakan & lawak banget
 
 Skills: PHP / HTML / JS / C++ / CSS / PAWN
 
-- 🔭 I’m currently working on [TNL Hostinger](https://tnl.runhosting.net) & [Videfikri API's](https://videfikri.com/api/)
+- 🔭 I’m currently working on [TNL Hostinger](https://tnl.runhosting.net) & [VideFikri API's](https://videfikri.com/api/)
 - 🌱 I’m currently learning Go-lang, JavaScript 
-- 👯 I’m looking to collaborate on FrelanBot WHATSAPP 
-- 🤔 I’m looking for help with FrelanBot WHATSAPP 
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with nothing 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: videfikri@videfikri.com
 - 😄 Pronouns: ... 
